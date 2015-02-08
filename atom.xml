@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://lhigueragamboa.github.io/learningocaml/atom.xml" rel="self"/>
+  <link href="http://lhigueragamboa.github.io/learningocaml/"/>
+  <updated>2015-02-08T11:16:07-06:00</updated>
+  <id>http://lhigueragamboa.github.io/learningocaml/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>

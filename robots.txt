@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://lhigueragamboa.github.io/learningocaml/sitemap.xml 
