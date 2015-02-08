@@ -1,0 +1,6 @@
+[submodule ".themes/cleanerpress"]
+	path = .themes/cleanerpress
+	url = https://github.com/pera/cleanerpress.git
+[submodule ".themes/readify"]
+	path = .themes/readify
+	url = https://github.com/vladigleba/readify.git
